@@ -1,8 +1,0 @@
-Usage:
-First install Scapy by:
-
-pip install scapy
-
-Then:
-python dosit.py
-
