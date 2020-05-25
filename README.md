@@ -8,4 +8,4 @@ pip install scapy
 Then:
 python dosit.py
 
-![Image](images/logo.png)
+![Image](https://github.com/BlackPandaCyberspace/dosit/blob/master/ok.png)
